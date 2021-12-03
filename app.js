@@ -1,4 +1,4 @@
-let boton = document.querySelector('.reproductor');
+let boton = document.querySelector('.first');
 
 boton.addEventListener('click', () => {
 	let etiquetaAudio = document.createElement('audio');
