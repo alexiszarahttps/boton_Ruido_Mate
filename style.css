@@ -1,0 +1,16 @@
+body {
+    background-color: salmon;
+}
+
+.reproductor {
+    cursor: pointer;
+    height: 10vh;
+    width: 15vw;
+    margin-left: 40em;
+    margin-top: 20em;
+    border-radius: 12px;
+    border:white;
+    display: inline-block;
+    position: relative;
+    transition: 0.3s;
+}
